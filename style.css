@@ -1,0 +1,10 @@
+.lite {
+ background-color: #ff00ee;
+ color: #002211;
+ text-align: center;
+}
+
+.dark {
+ background-color: #002211;
+ color: #ffddee;
+}
