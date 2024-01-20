@@ -8,3 +8,8 @@
  background-color: #002211;
  color: #ffddee;
 }
+
+footer {
+ position: absolute;
+ bottom: 50px;
+}
